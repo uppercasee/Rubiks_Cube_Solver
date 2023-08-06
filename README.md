@@ -1,4 +1,6 @@
 # Rubik's Cube Solver using Processing
+![GitHub](https://img.shields.io/github/license/uppercasee/Rubiks_Cube_Solver)
+
 
 <!-- ![Rubik's Cube Solver](./Assets/ss1.png) -->
 ![Rubik's Cube Solver](./Assets/ss2.png)
@@ -41,7 +43,7 @@ The project relies on the following library:
 - [PeasyCam](https://mrfeinberg.com/peasycam/): A camera control library for 3D visualization in Processing.
 
 ## Contributing
-Contributions are welcome! If you find any issues or have ideas for improvements, feel free to open an issue or create a pull request.
+Contributions are welcome! If you find any issues or have ideas for improvements, feel free to [open an issue](https://github.com/uppercasee/Rubiks_Cube_Solver/issues) or [create a pull request](https://github.com/uppercasee/Rubiks_Cube_Solver/pulls).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
